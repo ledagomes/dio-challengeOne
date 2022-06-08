@@ -1,0 +1,10 @@
+Para trabalhar com o gitHub a partir da criação de um repósitorio local,
+podemos subir para o repósitorio na nuvem as informações, versionando assim, o nosso 
+projeto.
+
+Use os comandos básicos para versionar
+
+
+git add .
+git commit -m "primeiro commit"
+git push origin main
